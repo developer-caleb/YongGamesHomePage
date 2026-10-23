@@ -1,4 +1,5 @@
-{
+// fr 번역 — 키는 ko.js 기준
+(window.YG_I18N = window.YG_I18N || {})["fr"] = {
   "meta.title": "YongGames | Studio de jeux indé",
   "meta.description": "YongGames est un studio de jeux indé qui crée des jeux fun qui donnent envie de dire « allez, encore une partie ». Nos titres phares : Typing Clash et Ne regarde pas les pubs.",
   "brand": "YongGames",
@@ -56,4 +57,4 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> est maintenant disponible sur Steam.",
   "contact.heading": "Créons quelque chose de fun ensemble !",
   "contact.desc": "Partenariats, édition, signalement de bugs ou juste un petit coucou : tout est bienvenu."
-}
+};

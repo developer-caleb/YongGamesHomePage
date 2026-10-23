@@ -1,4 +1,5 @@
-{
+// zh-CN 번역 — 키는 ko.js 기준
+(window.YG_I18N = window.YG_I18N || {})["zh-CN"] = {
   "meta.title": "YongGames | 独立游戏工作室",
   "meta.description": "YongGames 是一家独立游戏工作室，专做让人忍不住“再来一局”的好玩游戏。代表作：Typing Clash、《别看广告》。",
   "brand": "YongGames",
@@ -56,4 +57,4 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> 已在 Steam 正式发售。",
   "contact.heading": "一起来做好玩的东西吧！",
   "contact.desc": "商务合作、发行、Bug 反馈，或者只是来打个招呼，都非常欢迎！"
-}
+};

@@ -1,4 +1,5 @@
-{
+// hi 번역 — 키는 ko.js 기준
+(window.YG_I18N = window.YG_I18N || {})["hi"] = {
   "meta.title": "YongGames | इंडी गेम स्टूडियो",
   "meta.description": "YongGames एक इंडी गेम स्टूडियो है जो ऐसे मज़ेदार गेम बनाता है कि आप कहेंगे \"बस एक राउंड और!\" हमारे खास गेम: Typing Clash और विज्ञापन मत देखो।",
   "brand": "YongGames",
@@ -56,4 +57,4 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> अब Steam पर उपलब्ध है।",
   "contact.heading": "चलो साथ मिलकर कुछ मज़ेदार बनाएँ!",
   "contact.desc": "पार्टनरशिप, पब्लिशिंग, बग रिपोर्ट या बस हाय कहना — सबका स्वागत है।"
-}
+};

@@ -1,4 +1,5 @@
-{
+// ko 번역 — 키는 ko.js 기준
+(window.YG_I18N = window.YG_I18N || {})["ko"] = {
   "meta.title": "용게임즈 | YongGames",
   "meta.description": "용게임즈(YongGames)는 한 판만 더 하고 싶어지는 즐거운 게임을 만드는 인디 게임 스튜디오입니다. 대표작 Typing Clash, 광고를 보지 마세요.",
   "brand": "용게임즈",
@@ -56,4 +57,4 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a>가 Steam에 출시됐어요.",
   "contact.heading": "같이 재밌는 걸 만들어요!",
   "contact.desc": "제휴, 퍼블리싱, 버그 제보, 그냥 인사도 환영해요."
-}
+};

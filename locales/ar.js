@@ -1,4 +1,5 @@
-{
+// ar 번역 — 키는 ko.js 기준
+(window.YG_I18N = window.YG_I18N || {})["ar"] = {
   "meta.title": "YongGames | استوديو ألعاب مستقل",
   "meta.description": "YongGames استوديو ألعاب مستقل يصنع ألعابًا ممتعة تجعلك تقول «جولة واحدة بعد!». أبرز ألعابنا: Typing Clash و«لا تشاهد الإعلانات».",
   "brand": "YongGames",
@@ -56,4 +57,4 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> متوفرة الآن على Steam.",
   "contact.heading": "لنصنع شيئًا ممتعًا معًا!",
   "contact.desc": "الشراكات، النشر، الإبلاغ عن الأخطاء، أو مجرد تحية — كلها مرحّب بها."
-}
+};

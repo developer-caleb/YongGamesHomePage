@@ -1,4 +1,5 @@
-{
+// ja-JP 번역 — 키는 ko.js 기준
+(window.YG_I18N = window.YG_I18N || {})["ja-JP"] = {
   "meta.title": "YongGames | インディーゲームスタジオ",
   "meta.description": "YongGamesは「あと1回だけ！」が止まらない、楽しいゲームを作るインディーゲームスタジオです。代表作：Typing Clash、広告を見ないで。",
   "brand": "YongGames",
@@ -56,4 +57,4 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a>がSteamでリリースされました。",
   "contact.heading": "一緒に楽しいものを作りましょう！",
   "contact.desc": "提携、パブリッシング、バグ報告、ただのあいさつも大歓迎です。"
-}
+};

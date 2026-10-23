@@ -1,4 +1,5 @@
-{
+// fil 번역 — 키는 ko.js 기준
+(window.YG_I18N = window.YG_I18N || {})["fil"] = {
   "meta.title": "YongGames | Indie Game Studio",
   "meta.description": "Ang YongGames ay isang indie game studio na gumagawa ng masasayang laro na mapapasabi ka ng \"isa pang round!\" Mga tampok na laro: Typing Clash at Huwag Manood ng Ads.",
   "brand": "YongGames",
@@ -56,4 +57,4 @@
   "news.item2": "Available na sa Steam ang <a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a>.",
   "contact.heading": "Gawa tayo ng masayang bagay nang magkasama!",
   "contact.desc": "Partnership, publishing, bug report, o simpleng hi lang — welcome lahat."
-}
+};

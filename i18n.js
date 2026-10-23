@@ -1,5 +1,5 @@
 // 다국어 처리
-// - 번역 파일: locales/<코드>.json (키는 ko.json 기준)
+// - 번역 파일: locales/<코드>.js (키는 ko.js 기준)
 // - 언어 결정 순서: ?lang= → 저장된 선택 → 브라우저 언어 → en
 // - HTML 속성: data-i18n (텍스트), data-i18n-html (HTML 포함), data-i18n-attr="속성:키;속성:키"
 (() => {
@@ -101,11 +101,19 @@
     return "en";
   }
 
-  async function load(code) {
+  // fetch 대신 <script>로 불러와서 파일을 직접 열어도(file://) 동작함
+  function load(code) {
     if (cache[code]) return cache[code];
-    const res = await fetch(`./locales/${code}.json`);
-    if (!res.ok) throw new Error(`locale ${code}: ${res.status}`);
-    return (cache[code] = await res.json());
+    return (cache[code] = new Promise((resolve, reject) => {
+      const s = document.createElement("script");
+      s.src = `./locales/${code}.js`;
+      s.onload = () => (window.YG_I18N && window.YG_I18N[code] ? resolve(window.YG_I18N[code]) : reject(new Error(`locale ${code}: empty`)));
+      s.onerror = () => {
+        delete cache[code];
+        reject(new Error(`locale ${code}: load failed`));
+      };
+      document.head.appendChild(s);
+    }));
   }
 
   function applyFont(code) {

@@ -1,4 +1,5 @@
-{
+// vi 번역 — 키는 ko.js 기준
+(window.YG_I18N = window.YG_I18N || {})["vi"] = {
   "meta.title": "YongGames | Studio Game Indie",
   "meta.description": "YongGames là studio game indie chuyên làm những tựa game vui đến mức bạn cứ muốn \"thêm một ván nữa thôi\". Game nổi bật: Typing Clash và Đừng Xem Quảng Cáo.",
   "brand": "YongGames",
@@ -56,4 +57,4 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> đã có mặt trên Steam.",
   "contact.heading": "Cùng nhau làm điều gì đó thật vui nhé!",
   "contact.desc": "Hợp tác, phát hành, báo lỗi, hay chỉ ghé chào thôi — đều rất hoan nghênh."
-}
+};
