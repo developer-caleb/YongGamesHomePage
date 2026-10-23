@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e3262f"/>
+      <stop offset="1" stop-color="#8e0b14"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a6fd6"/>
+      <stop offset="1" stop-color="#0b3a8c"/>
+    </linearGradient>
+    <linearGradient id="yellow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe03a"/>
+      <stop offset="1" stop-color="#e2a400"/>
+    </linearGradient>
+    <!-- 물방울: 뾰족한 끝이 (0,0), 몸통은 +y 방향 -->
+    <path id="drop" d="M0 0 C-22 34 -48 72 -42 102 A43 43 0 0 0 42 102 C48 72 22 34 0 0Z"/>
+    <path id="shine" d="M-12 128 C-22 110 -18 80 -6 52" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="7" stroke-linecap="round"/>
+  </defs>
+
+  <!-- 주사위 -->
+  <g stroke="#111" stroke-width="16" stroke-linejoin="round" fill="#fff">
+    <path d="M78 186 L256 100 L434 186 L434 352 L256 456 L78 352 Z"/>
+  </g>
+  <g stroke="#111" stroke-width="12" stroke-linecap="round" fill="none">
+    <path d="M256 196 V316"/>
+    <path d="M150 342 L256 316 L362 342"/>
+  </g>
+
+  <!-- 눈 -->
+  <g fill="#111">
+    <ellipse cx="166" cy="244" rx="20" ry="30" transform="rotate(12 166 244)"/>
+    <ellipse cx="386" cy="208" rx="19" ry="27" transform="rotate(-12 386 208)"/>
+    <ellipse cx="298" cy="282" rx="19" ry="27" transform="rotate(-12 298 282)"/>
+    <ellipse cx="180" cy="392" rx="28" ry="17"/>
+    <ellipse cx="256" cy="392" rx="28" ry="17"/>
+    <ellipse cx="332" cy="392" rx="28" ry="17"/>
+  </g>
+
+  <!-- 빨강 (위) -->
+  <g transform="translate(256 202) rotate(180)">
+    <use href="#drop" xlink:href="#drop" fill="#111" stroke="#111" stroke-width="22" stroke-linejoin="round"/>
+    <use href="#drop" xlink:href="#drop" fill="url(#red)"/>
+    <use href="#shine" xlink:href="#shine"/>
+  </g>
+  <!-- 파랑 (왼쪽 아래) -->
+  <g transform="translate(188 340) rotate(62)">
+    <use href="#drop" xlink:href="#drop" fill="#111" stroke="#111" stroke-width="22" stroke-linejoin="round"/>
+    <use href="#drop" xlink:href="#drop" fill="url(#blue)"/>
+    <use href="#shine" xlink:href="#shine"/>
+  </g>
+  <!-- 노랑 (오른쪽 아래) -->
+  <g transform="translate(324 340) rotate(-62)">
+    <use href="#drop" xlink:href="#drop" fill="#111" stroke="#111" stroke-width="22" stroke-linejoin="round"/>
+    <use href="#drop" xlink:href="#drop" fill="url(#yellow)"/>
+    <use href="#shine" xlink:href="#shine" transform="scale(-1 1)"/>
+  </g>
+</svg>
