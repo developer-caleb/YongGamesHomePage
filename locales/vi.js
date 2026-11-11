@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> đã có mặt trên Steam.",
   "contact.heading": "Cùng nhau làm điều gì đó thật vui nhé!",
   "contact.desc": "Hợp tác, phát hành, báo lỗi, hay chỉ ghé chào thôi — đều rất hoan nghênh.",
-  "games.more": "Thêm game",
-  "games.steamLink": "Xem trên Steam →",
-  "games.playLink": "Xem trên Google Play →",
   "tag.puzzle": "Giải đố",
   "tag.fighting": "Đối kháng",
   "tag.towerDefense": "Thủ thành",
@@ -72,5 +69,12 @@
   "pk.title": "Thủ Thành Poker May Mắn",
   "pk.desc": "Chia 12 lá bài thành các bộ poker, mỗi bộ sẽ hóa thành anh hùng canh giữ con đường! Tạo lối build riêng với cổ vật và chặn đứng 150 loại quái vật.",
   "gg.title": "Quản Lý Hội Đấu Sĩ",
-  "gg.desc": "Trở thành quản lý của hội đấu sĩ: chiêu mộ chiến binh và lên chiến thuật! Leo từ Giải Bụi Đất đến Giải Vô Địch qua các trận đấu đội tự động 5v5."
+  "gg.desc": "Trở thành quản lý của hội đấu sĩ: chiêu mộ chiến binh và lên chiến thuật! Leo từ Giải Bụi Đất đến Giải Vô Địch qua các trận đấu đội tự động 5v5.",
+  "pd.tagline": "Chạm ngọc, tung kỹ năng, thắng trận đấu!",
+  "pd.modes": "Đấu 1v1 · Xếp hạng",
+  "pk.tagline": "Bài poker chính là đội quân của bạn!",
+  "pk.genre": "Chiến thuật · Thủ thành",
+  "gg.tagline": "Chiến đấu tự động — chiến thắng nằm ở quản lý!",
+  "gg.genre": "Chiến thuật · RPG quản lý",
+  "gg.rating": "Từ 12 tuổi"
 };

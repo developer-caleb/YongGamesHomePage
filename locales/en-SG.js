@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> is now available on Steam.",
   "contact.heading": "Let's make something fun together!",
   "contact.desc": "Partnerships, publishing, bug reports, or just saying hi — all welcome.",
-  "games.more": "More Games",
-  "games.steamLink": "View on Steam →",
-  "games.playLink": "View on Google Play →",
   "tag.puzzle": "Puzzle",
   "tag.fighting": "Fighting",
   "tag.towerDefense": "Tower Defense",
@@ -72,5 +69,12 @@
   "pk.title": "Lucky Tower Poker Defense",
   "pk.desc": "Split 12 cards into poker hands and every hand becomes a hero guarding the road! Craft your own build with relics and hold off 150 kinds of monsters.",
   "gg.title": "Gladiator Guild Manager",
-  "gg.desc": "Become the manager of a gladiator guild: recruit fighters and plan your tactics! Climb from the Dust League all the way to Champion in 5v5 auto team battles."
+  "gg.desc": "Become the manager of a gladiator guild: recruit fighters and plan your tactics! Climb from the Dust League all the way to Champion in 5v5 auto team battles.",
+  "pd.tagline": "Tap gems, fire skills, win the duel!",
+  "pd.modes": "1v1 battles · Ranked",
+  "pk.tagline": "Your poker hand is your army!",
+  "pk.genre": "Strategy · Tower defense",
+  "gg.tagline": "The fighting is automatic — victory is up to the manager!",
+  "gg.genre": "Strategy · Manager RPG",
+  "gg.rating": "Ages 12+"
 };

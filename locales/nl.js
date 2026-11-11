@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> is nu verkrijgbaar op Steam.",
   "contact.heading": "Laten we samen iets leuks maken!",
   "contact.desc": "Samenwerkingen, publishing, bugmeldingen of gewoon even hallo zeggen: alles is welkom.",
-  "games.more": "Meer games",
-  "games.steamLink": "Bekijk op Steam →",
-  "games.playLink": "Bekijk op Google Play →",
   "tag.puzzle": "Puzzel",
   "tag.fighting": "Vechten",
   "tag.towerDefense": "Tower Defense",
@@ -72,5 +69,12 @@
   "pk.title": "Lucky Tower Poker Defense",
   "pk.desc": "Verdeel 12 kaarten in pokerhanden en elke hand wordt een held die de weg bewaakt! Maak je eigen build met relikwieën en houd 150 soorten monsters tegen.",
   "gg.title": "Gladiatorengilde Manager",
-  "gg.desc": "Word de manager van een gladiatorengilde: rekruteer vechters en bedenk je tactiek! Klim in automatische 5v5-teamgevechten van de Stofliga helemaal naar de Kampioensliga."
+  "gg.desc": "Word de manager van een gladiatorengilde: rekruteer vechters en bedenk je tactiek! Klim in automatische 5v5-teamgevechten van de Stofliga helemaal naar de Kampioensliga.",
+  "pd.tagline": "Tik op edelstenen, vuur skills af, win het duel!",
+  "pd.modes": "1v1-gevechten · Ranked",
+  "pk.tagline": "Je pokerhand is je leger!",
+  "pk.genre": "Strategie · Tower Defense",
+  "gg.tagline": "Vechten gaat vanzelf – de overwinning ligt bij de manager!",
+  "gg.genre": "Strategie · Manager-RPG",
+  "gg.rating": "PEGI 12"
 };

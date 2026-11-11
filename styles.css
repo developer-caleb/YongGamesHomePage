@@ -554,6 +554,12 @@ h3 {
   color: #fff;
 }
 
+.featured-cover.cover-pink {
+  background:
+    radial-gradient(circle, rgba(255, 255, 255, 0.7) 3px, transparent 3px) 0 0 / 22px 22px,
+    var(--red-soft);
+}
+
 /* 다음 프로젝트 */
 .coming {
   display: flex;
@@ -587,77 +593,6 @@ h3 {
 
 .coming p {
   margin: 0;
-  color: var(--muted);
-}
-
-/* 더 많은 게임 */
-.subhead {
-  margin: 12px 0 22px;
-  font-size: clamp(24px, 3vw, 30px);
-}
-
-.game-grid {
-  margin-bottom: 36px;
-}
-
-.game-cover {
-  overflow: hidden;
-}
-
-.game-card:hover .game-cover > img:only-child {
-  transform: scale(1.04);
-}
-
-.game-cover > img:only-child {
-  transition: transform 0.4s ease;
-}
-
-.cover-red {
-  background:
-    radial-gradient(circle, rgba(255, 255, 255, 0.6) 3px, transparent 3px) 0 0 / 22px 22px,
-    var(--red-soft);
-}
-
-/* 세로 스크린샷 3장으로 커버를 꽉 채움 + 아이콘 */
-.game-cover.mini-phones {
-  display: flex;
-  align-items: stretch;
-  gap: 3px;
-  background: var(--ink);
-}
-
-.mini-phones .mini-shot {
-  position: static;
-  flex: 1 1 0;
-  min-width: 0;
-  width: auto;
-  height: 100%;
-  object-fit: cover;
-  object-position: top;
-  transition: transform 0.4s ease;
-}
-
-.game-card:hover .mini-phones .mini-shot { transform: scale(1.04); }
-
-.mini-phones .mini-icon {
-  position: absolute;
-  inset: auto 12px 12px auto;
-  z-index: 2;
-  width: 52px;
-  height: 52px;
-  border: var(--border);
-  border-radius: 14px;
-  box-shadow: 3px 3px 0 var(--ink);
-  transform: rotate(8deg);
-}
-
-[dir="rtl"] .mini-phones .mini-icon {
-  inset: auto auto 12px 12px;
-}
-
-.platform {
-  font-size: 13px;
-  font-weight: 700;
   color: var(--muted);
 }
 

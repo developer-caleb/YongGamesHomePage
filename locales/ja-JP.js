@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a>がSteamでリリースされました。",
   "contact.heading": "一緒に楽しいものを作りましょう！",
   "contact.desc": "提携、パブリッシング、バグ報告、ただのあいさつも大歓迎です。",
-  "games.more": "もっとゲームを見る",
-  "games.steamLink": "Steamで見る →",
-  "games.playLink": "Google Playで見る →",
   "tag.puzzle": "パズル",
   "tag.fighting": "対戦格闘",
   "tag.towerDefense": "タワーディフェンス",
@@ -72,5 +69,12 @@
   "pk.title": "運ゲー塔ポーカーディフェンス",
   "pk.desc": "12枚のカードをポーカーの役に分けて出すと、ぜんぶ英雄になって道を守るよ！レリックで自分だけのビルドを作り、150種類のモンスターを食い止めよう。",
   "gg.title": "剣闘士ギルド育成",
-  "gg.desc": "剣闘士ギルドの監督になって、戦士をスカウトし作戦を立てよう！5v5のオートチームバトルで、ダストリーグからチャンピオンリーグまで駆け上がろう。"
+  "gg.desc": "剣闘士ギルドの監督になって、戦士をスカウトし作戦を立てよう！5v5のオートチームバトルで、ダストリーグからチャンピオンリーグまで駆け上がろう。",
+  "pd.tagline": "宝石をタップ、スキルを放って、対戦に勝利しよう！",
+  "pd.modes": "1:1対戦 · ランクマッチ",
+  "pk.tagline": "ポーカーの役がキミの軍団になる！",
+  "pk.genre": "ストラテジー · タワーディフェンス",
+  "gg.tagline": "戦いはオート、勝利のカギは監督の采配！",
+  "gg.genre": "ストラテジー · 監督RPG",
+  "gg.rating": "12歳以上対象"
 };

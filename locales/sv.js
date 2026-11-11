@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> finns nu på Steam.",
   "contact.heading": "Låt oss göra något kul tillsammans!",
   "contact.desc": "Samarbeten, publicering, buggrapporter eller bara ett hej – allt är välkommet.",
-  "games.more": "Fler spel",
-  "games.steamLink": "Visa på Steam →",
-  "games.playLink": "Visa på Google Play →",
   "tag.puzzle": "Pussel",
   "tag.fighting": "Fighting",
   "tag.towerDefense": "Tower Defense",
@@ -72,5 +69,12 @@
   "pk.title": "Lyckotornet: Poker Defense",
   "pk.desc": "Dela upp 12 kort i pokerhänder så blir varje hand en hjälte som vaktar vägen! Skapa ditt eget bygge med reliker och stoppa 150 sorters monster.",
   "gg.title": "Gladiatorgillet Manager",
-  "gg.desc": "Bli manager för ett gladiatorgille: värva kämpar och planera din taktik! Klättra från Dammligan hela vägen till Mästarligan i automatiska 5v5-lagstrider."
+  "gg.desc": "Bli manager för ett gladiatorgille: värva kämpar och planera din taktik! Klättra från Dammligan hela vägen till Mästarligan i automatiska 5v5-lagstrider.",
+  "pd.tagline": "Tryck på ädelstenar, avfyra skills, vinn duellen!",
+  "pd.modes": "1v1-strider · Rankat",
+  "pk.tagline": "Din pokerhand är din armé!",
+  "pk.genre": "Strategi · Tower Defense",
+  "gg.tagline": "Striderna sker automatiskt – segern hänger på managern!",
+  "gg.genre": "Strategi · Manager-RPG",
+  "gg.rating": "PEGI 12"
 };

@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> kini tersedia di Steam.",
   "contact.heading": "Yuk, bikin sesuatu yang seru bareng!",
   "contact.desc": "Kerja sama, publishing, laporan bug, atau sekadar menyapa — semua kami sambut.",
-  "games.more": "Game Lainnya",
-  "games.steamLink": "Lihat di Steam →",
-  "games.playLink": "Lihat di Google Play →",
   "tag.puzzle": "Puzzle",
   "tag.fighting": "Fighting",
   "tag.towerDefense": "Tower Defense",
@@ -72,5 +69,12 @@
   "pk.title": "Lucky Tower Poker Defense",
   "pk.desc": "Bagi 12 kartu jadi kombinasi poker, dan semuanya berubah jadi pahlawan penjaga jalan! Racik build andalanmu dengan relik dan tahan serangan 150 jenis monster.",
   "gg.title": "Gladiator Guild Manager",
-  "gg.desc": "Jadilah manajer guild gladiator: rekrut petarung dan atur taktikmu! Naik dari Liga Debu sampai Liga Juara lewat pertarungan tim otomatis 5v5."
+  "gg.desc": "Jadilah manajer guild gladiator: rekrut petarung dan atur taktikmu! Naik dari Liga Debu sampai Liga Juara lewat pertarungan tim otomatis 5v5.",
+  "pd.tagline": "Ketuk permata, keluarkan skill, menangkan duel!",
+  "pd.modes": "Duel 1v1 · Ranked",
+  "pk.tagline": "Kombinasi poker adalah pasukanmu!",
+  "pk.genre": "Strategi · Tower Defense",
+  "gg.tagline": "Bertarung otomatis, kemenangan ada di tangan manajer!",
+  "gg.genre": "Strategi · RPG Manajer",
+  "gg.rating": "Usia 12+"
 };

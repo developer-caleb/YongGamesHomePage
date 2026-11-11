@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> ist jetzt auf Steam erhältlich.",
   "contact.heading": "Lass uns zusammen was Spaßiges machen!",
   "contact.desc": "Kooperationen, Publishing, Bugmeldungen oder einfach nur Hallo – alles willkommen.",
-  "games.more": "Mehr Spiele",
-  "games.steamLink": "Auf Steam ansehen →",
-  "games.playLink": "Bei Google Play ansehen →",
   "tag.puzzle": "Puzzle",
   "tag.fighting": "Kampfspiel",
   "tag.towerDefense": "Tower Defense",
@@ -72,5 +69,12 @@
   "pk.title": "Glücksturm Poker Defense",
   "pk.desc": "Teile 12 Karten in Pokerhände auf – jede Hand wird zum Helden, der den Weg bewacht! Bau mit Relikten deinen eigenen Build und halte 150 Monsterarten auf.",
   "gg.title": "Gladiatorengilde Manager",
-  "gg.desc": "Werde Manager einer Gladiatorengilde: Rekrutiere Kämpfer und plane deine Taktik! Steig in 5v5-Auto-Teamkämpfen von der Staubliga bis zur Champion-Liga auf."
+  "gg.desc": "Werde Manager einer Gladiatorengilde: Rekrutiere Kämpfer und plane deine Taktik! Steig in 5v5-Auto-Teamkämpfen von der Staubliga bis zur Champion-Liga auf.",
+  "pd.tagline": "Tippe Edelsteine, feuere Skills ab, gewinne das Duell!",
+  "pd.modes": "1v1-Kämpfe · Ranked",
+  "pk.tagline": "Dein Pokerblatt ist deine Armee!",
+  "pk.genre": "Strategie · Tower Defense",
+  "gg.tagline": "Gekämpft wird automatisch – der Sieg liegt beim Manager!",
+  "gg.genre": "Strategie · Manager-RPG",
+  "gg.rating": "USK ab 12"
 };

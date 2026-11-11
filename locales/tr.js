@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> artık Steam'de!",
   "contact.heading": "Birlikte eğlenceli bir şeyler yapalım!",
   "contact.desc": "İş birlikleri, yayıncılık, hata bildirimleri ya da sadece bir merhaba — hepsine kapımız açık.",
-  "games.more": "Daha Fazla Oyun",
-  "games.steamLink": "Steam'de gör →",
-  "games.playLink": "Google Play'de gör →",
   "tag.puzzle": "Bulmaca",
   "tag.fighting": "Dövüş",
   "tag.towerDefense": "Kule Savunma",
@@ -72,5 +69,12 @@
   "pk.title": "Şanslı Kule Poker Savunması",
   "pk.desc": "12 kartı poker ellerine ayır, her el yolu koruyan bir kahramana dönüşsün! Kalıntılarla kendi build'ini oluştur ve 150 çeşit canavarı durdur.",
   "gg.title": "Gladyatör Loncası Yöneticisi",
-  "gg.desc": "Bir gladyatör loncasının menajeri ol: savaşçılar topla ve taktiğini planla! 5v5 otomatik takım savaşlarında Toz Ligi'nden Şampiyonlar Ligi'ne kadar tırman."
+  "gg.desc": "Bir gladyatör loncasının menajeri ol: savaşçılar topla ve taktiğini planla! 5v5 otomatik takım savaşlarında Toz Ligi'nden Şampiyonlar Ligi'ne kadar tırman.",
+  "pd.tagline": "Mücevherlere dokun, yetenekleri ateşle, düelloyu kazan!",
+  "pd.modes": "1v1 savaşlar · Dereceli",
+  "pk.tagline": "Poker elin, senin ordun!",
+  "pk.genre": "Strateji · Kule Savunma",
+  "gg.tagline": "Savaş otomatik, zafer menajerin elinde!",
+  "gg.genre": "Strateji · Menajerlik RPG",
+  "gg.rating": "12 yaş ve üzeri"
 };

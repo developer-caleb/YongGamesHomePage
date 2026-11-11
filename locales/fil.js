@@ -57,9 +57,6 @@
   "news.item2": "Available na sa Steam ang <a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a>.",
   "contact.heading": "Gawa tayo ng masayang bagay nang magkasama!",
   "contact.desc": "Partnership, publishing, bug report, o simpleng hi lang — welcome lahat.",
-  "games.more": "Iba Pang Laro",
-  "games.steamLink": "Tingnan sa Steam →",
-  "games.playLink": "Tingnan sa Google Play →",
   "tag.puzzle": "Puzzle",
   "tag.fighting": "Fighting",
   "tag.towerDefense": "Tower Defense",
@@ -72,5 +69,12 @@
   "pk.title": "Lucky Tower Poker Defense",
   "pk.desc": "Hatiin ang 12 cards sa poker hands at bawat hand ay magiging hero na magbabantay sa daan! Gumawa ng sariling build gamit ang relics at pigilan ang 150 klase ng monsters.",
   "gg.title": "Gladiator Guild Manager",
-  "gg.desc": "Maging manager ng isang gladiator guild: mag-recruit ng fighters at magplano ng taktika! Umakyat mula Dust League hanggang Champion League sa 5v5 auto team battles."
+  "gg.desc": "Maging manager ng isang gladiator guild: mag-recruit ng fighters at magplano ng taktika! Umakyat mula Dust League hanggang Champion League sa 5v5 auto team battles.",
+  "pd.tagline": "I-tap ang gems, gamitin ang skills, manalo sa duel!",
+  "pd.modes": "1v1 battles · Ranked",
+  "pk.tagline": "Ang poker hand mo ang army mo!",
+  "pk.genre": "Strategy · Tower Defense",
+  "gg.tagline": "Automatic ang laban, pero ang panalo ay nasa manager!",
+  "gg.genre": "Strategy · Manager RPG",
+  "gg.rating": "Para sa 12 Pataas"
 };

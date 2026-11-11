@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> est maintenant disponible sur Steam.",
   "contact.heading": "Créons quelque chose de fun ensemble !",
   "contact.desc": "Partenariats, édition, signalement de bugs ou juste un petit coucou : tout est bienvenu.",
-  "games.more": "Plus de jeux",
-  "games.steamLink": "Voir sur Steam →",
-  "games.playLink": "Voir sur Google Play →",
   "tag.puzzle": "Puzzle",
   "tag.fighting": "Combat",
   "tag.towerDefense": "Tower Defense",
@@ -72,5 +69,12 @@
   "pk.title": "Lucky Tower : Poker Defense",
   "pk.desc": "Répartis 12 cartes en combinaisons de poker : chacune devient un héros qui garde la route ! Crée ton propre build avec des reliques et repousse 150 types de monstres.",
   "gg.title": "Gladiator Guild Manager",
-  "gg.desc": "Deviens le manager d'une guilde de gladiateurs : recrute des combattants et prépare ta tactique ! Grimpe de la Ligue de la Poussière jusqu'à la Ligue des Champions en combats d'équipe auto 5v5."
+  "gg.desc": "Deviens le manager d'une guilde de gladiateurs : recrute des combattants et prépare ta tactique ! Grimpe de la Ligue de la Poussière jusqu'à la Ligue des Champions en combats d'équipe auto 5v5.",
+  "pd.tagline": "Touche les gemmes, lance tes compétences, gagne le duel !",
+  "pd.modes": "Combats 1v1 · Classé",
+  "pk.tagline": "Ta main de poker, c'est ton armée !",
+  "pk.genre": "Stratégie · Tower Defense",
+  "gg.tagline": "Le combat est automatique, la victoire dépend du manager !",
+  "gg.genre": "Stratégie · RPG de gestion",
+  "gg.rating": "PEGI 12"
 };

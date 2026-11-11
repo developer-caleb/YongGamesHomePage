@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> jest już dostępne na Steam!",
   "contact.heading": "Zróbmy razem coś fajnego!",
   "contact.desc": "Współpraca, wydawanie, zgłoszenia błędów albo zwykłe „cześć” – wszystko mile widziane!",
-  "games.more": "Więcej gier",
-  "games.steamLink": "Zobacz na Steam →",
-  "games.playLink": "Zobacz w Google Play →",
   "tag.puzzle": "Logiczne",
   "tag.fighting": "Bijatyki",
   "tag.towerDefense": "Tower Defense",
@@ -72,5 +69,12 @@
   "pk.title": "Szczęśliwa Wieża: Poker Defense",
   "pk.desc": "Podziel 12 kart na układy pokerowe, a każdy z nich stanie się bohaterem strzegącym drogi! Twórz własny build z reliktami i powstrzymaj 150 rodzajów potworów.",
   "gg.title": "Gildia Gladiatorów: Manager",
-  "gg.desc": "Zostań menedżerem gildii gladiatorów: werbuj wojowników i planuj taktykę! Wespnij się od Ligi Kurzu aż po Ligę Mistrzów w automatycznych bitwach drużynowych 5v5."
+  "gg.desc": "Zostań menedżerem gildii gladiatorów: werbuj wojowników i planuj taktykę! Wespnij się od Ligi Kurzu aż po Ligę Mistrzów w automatycznych bitwach drużynowych 5v5.",
+  "pd.tagline": "Klikaj klejnoty, odpalaj umiejętności, wygraj pojedynek!",
+  "pd.modes": "Walki 1v1 · Rankingowe",
+  "pk.tagline": "Twój układ pokerowy to twoja armia!",
+  "pk.genre": "Strategia · Tower Defense",
+  "gg.tagline": "Walka toczy się sama – zwycięstwo zależy od menedżera!",
+  "gg.genre": "Strategia · Menedżerskie RPG",
+  "gg.rating": "Od 12 lat"
 };

@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> 已在 Steam 正式上市。",
   "contact.heading": "一起來做好玩的東西吧！",
   "contact.desc": "合作提案、發行、Bug 回報，或只是來打聲招呼，都非常歡迎！",
-  "games.more": "更多遊戲",
-  "games.steamLink": "在 Steam 查看 →",
-  "games.playLink": "在 Google Play 查看 →",
   "tag.puzzle": "益智",
   "tag.fighting": "格鬥",
   "tag.towerDefense": "塔防",
@@ -72,5 +69,12 @@
   "pk.title": "好運塔防：撲克守衛戰",
   "pk.desc": "把 12 張牌依撲克牌型分組出牌，全部都會變成英雄守住要道！用遺物打造專屬流派，擋下 150 種怪物的進攻。",
   "gg.title": "培育劍鬥士公會",
-  "gg.desc": "成為劍鬥士公會的教練，招募戰士、擬定戰術！在 5v5 自動團隊戰鬥中，從塵土聯盟一路打進冠軍聯盟。"
+  "gg.desc": "成為劍鬥士公會的教練，招募戰士、擬定戰術！在 5v5 自動團隊戰鬥中，從塵土聯盟一路打進冠軍聯盟。",
+  "pd.tagline": "點寶石、放技能，贏下對決！",
+  "pd.modes": "1v1 對戰 · 排位賽",
+  "pk.tagline": "撲克牌型就是你的軍隊！",
+  "pk.genre": "策略 · 塔防",
+  "gg.tagline": "戰鬥全自動，勝負就看教練的判斷！",
+  "gg.genre": "策略 · 經營 RPG",
+  "gg.rating": "輔12級"
 };

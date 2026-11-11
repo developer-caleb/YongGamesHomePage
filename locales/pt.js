@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> já está disponível no Steam!",
   "contact.heading": "Vamos criar algo divertido juntos!",
   "contact.desc": "Parcerias, publicação, relatórios de bugs ou só para dizer olá — tudo é bem-vindo!",
-  "games.more": "Mais jogos",
-  "games.steamLink": "Ver no Steam →",
-  "games.playLink": "Ver no Google Play →",
   "tag.puzzle": "Puzzle",
   "tag.fighting": "Luta",
   "tag.towerDefense": "Defesa de torres",
@@ -72,5 +69,12 @@
   "pk.title": "Póquer da Sorte: Defesa de Torres",
   "pk.desc": "Divide 12 cartas em mãos de póquer e cada mão torna-se um herói que guarda o caminho! Cria a tua própria build com relíquias e trava 150 tipos de monstros.",
   "gg.title": "Gestor da Guilda de Gladiadores",
-  "gg.desc": "Torna-te o gestor de uma guilda de gladiadores: recruta lutadores e planeia as tuas táticas! Sobe da Liga do Pó até à Liga dos Campeões em combates automáticos de equipa 5v5."
+  "gg.desc": "Torna-te o gestor de uma guilda de gladiadores: recruta lutadores e planeia as tuas táticas! Sobe da Liga do Pó até à Liga dos Campeões em combates automáticos de equipa 5v5.",
+  "pd.tagline": "Toca nas gemas, lança habilidades e vence o duelo!",
+  "pd.modes": "Duelos 1v1 · Classificatórias",
+  "pk.tagline": "A tua mão de póquer é o teu exército!",
+  "pk.genre": "Estratégia · Defesa de torres",
+  "gg.tagline": "O combate é automático, a vitória depende do gestor!",
+  "gg.genre": "Estratégia · RPG de gestão",
+  "gg.rating": "Para maiores de 12 anos"
 };

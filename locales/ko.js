@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a>가 Steam에 출시됐어요.",
   "contact.heading": "같이 재밌는 걸 만들어요!",
   "contact.desc": "제휴, 퍼블리싱, 버그 제보, 그냥 인사도 환영해요.",
-  "games.more": "더 많은 게임",
-  "games.steamLink": "Steam에서 보기 →",
-  "games.playLink": "Google Play에서 보기 →",
   "tag.puzzle": "퍼즐",
   "tag.fighting": "격투",
   "tag.towerDefense": "타워 디펜스",
@@ -72,5 +69,12 @@
   "pk.title": "운빨 탑 포커 디펜스",
   "pk.desc": "카드 12장을 포커 족보로 나눠 내면 전부 영웅이 되어 길목을 지켜요! 유물로 나만의 빌드를 만들고 150종의 몬스터를 막아내세요.",
   "gg.title": "검투사 길드 키우기",
-  "gg.desc": "검투사 길드의 감독이 되어 전사를 영입하고 작전을 짜세요! 5대5 자동 팀 전투로 흙먼지 리그부터 챔피언 리그까지 올라가요."
+  "gg.desc": "검투사 길드의 감독이 되어 전사를 영입하고 작전을 짜세요! 5대5 자동 팀 전투로 흙먼지 리그부터 챔피언 리그까지 올라가요.",
+  "pd.tagline": "보석을 누르고, 기술을 쏘고, 대결에서 이기세요!",
+  "pd.modes": "1:1 대전 · 랭크전",
+  "pk.tagline": "포커 족보가 곧 나의 군대!",
+  "pk.genre": "전략 · 타워 디펜스",
+  "gg.tagline": "싸움은 자동, 승리는 감독의 판단에 달렸다!",
+  "gg.genre": "전략 · 매니저 RPG",
+  "gg.rating": "12세 이상"
 };

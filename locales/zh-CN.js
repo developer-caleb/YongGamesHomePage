@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> 已在 Steam 正式发售。",
   "contact.heading": "一起来做好玩的东西吧！",
   "contact.desc": "商务合作、发行、Bug 反馈，或者只是来打个招呼，都非常欢迎！",
-  "games.more": "更多游戏",
-  "games.steamLink": "在 Steam 查看 →",
-  "games.playLink": "在 Google Play 查看 →",
   "tag.puzzle": "益智",
   "tag.fighting": "格斗",
   "tag.towerDefense": "塔防",
@@ -72,5 +69,12 @@
   "pk.title": "运气塔防：扑克守卫战",
   "pk.desc": "把 12 张牌按扑克牌型分组打出，全部变成英雄守住要道！用遗物打造专属流派，抵挡 150 种怪物的进攻。",
   "gg.title": "养成角斗士公会",
-  "gg.desc": "成为角斗士公会的教练，招募战士、制定战术！在 5v5 自动团队战斗中，从尘土联赛一路打进冠军联赛。"
+  "gg.desc": "成为角斗士公会的教练，招募战士、制定战术！在 5v5 自动团队战斗中，从尘土联赛一路打进冠军联赛。",
+  "pd.tagline": "点宝石、放技能，赢下对决！",
+  "pd.modes": "1v1 对战 · 排位赛",
+  "pk.tagline": "扑克牌型就是你的军团！",
+  "pk.genre": "策略 · 塔防",
+  "gg.tagline": "战斗全自动，胜负看教练的决策！",
+  "gg.genre": "策略 · 经营 RPG",
+  "gg.rating": "12岁以上"
 };

@@ -57,9 +57,6 @@
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> 已經喺 Steam 正式推出。",
   "contact.heading": "一齊整啲好玩嘢！",
   "contact.desc": "業務合作、發行、Bug 報告，或者只係想打個招呼，都非常歡迎。",
-  "games.more": "更多遊戲",
-  "games.steamLink": "去 Steam 睇睇 →",
-  "games.playLink": "去 Google Play 睇睇 →",
   "tag.puzzle": "解謎",
   "tag.fighting": "格鬥",
   "tag.towerDefense": "塔防",
@@ -72,5 +69,12 @@
   "pk.title": "好運塔防：啤牌守衛戰",
   "pk.desc": "將 12 張牌按啤牌牌型分組打出，全部都會變成英雄守住要道！用遺物砌出專屬玩法，擋住 150 種怪物嘅進攻。",
   "gg.title": "角鬥士公會養成記",
-  "gg.desc": "做角鬥士公會嘅領隊，招募戰士、部署戰術！喺 5v5 自動團隊戰鬥入面，由塵土聯賽一路殺入冠軍聯賽。"
+  "gg.desc": "做角鬥士公會嘅領隊，招募戰士、部署戰術！喺 5v5 自動團隊戰鬥入面，由塵土聯賽一路殺入冠軍聯賽。",
+  "pd.tagline": "撳寶石、放技能，打贏對決！",
+  "pd.modes": "1v1 對戰 · 排位賽",
+  "pk.tagline": "啤牌牌型就係你嘅軍團！",
+  "pk.genre": "策略 · 塔防",
+  "gg.tagline": "打鬥全自動，贏唔贏就睇領隊點部署！",
+  "gg.genre": "策略 · 經營 RPG",
+  "gg.rating": "適合12歲或以上"
 };
