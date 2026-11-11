@@ -56,5 +56,21 @@
   "news.item1": "Die offizielle YongGames-Website ist online!",
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> ist jetzt auf Steam erhältlich.",
   "contact.heading": "Lass uns zusammen was Spaßiges machen!",
-  "contact.desc": "Kooperationen, Publishing, Bugmeldungen oder einfach nur Hallo – alles willkommen."
+  "contact.desc": "Kooperationen, Publishing, Bugmeldungen oder einfach nur Hallo – alles willkommen.",
+  "games.more": "Mehr Spiele",
+  "games.steamLink": "Auf Steam ansehen →",
+  "games.playLink": "Bei Google Play ansehen →",
+  "tag.puzzle": "Puzzle",
+  "tag.fighting": "Kampfspiel",
+  "tag.towerDefense": "Tower Defense",
+  "tag.card": "Karten",
+  "tag.rpg": "RPG",
+  "tag.management": "Management",
+  "tag.autoBattle": "Auto-Kampf",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/14396c6c4538b40f44a50bdeab0d3be6c975d29b/header.jpg",
+  "pd.desc": "Tippe Edelsteine der Reihe nach an und entfessle Skills in diesem 1v1-Puzzle-Fighter! Stell dein Skill-Deck zusammen, wähle einen süßen Tierkämpfer und steig in 45-Sekunden-Matches in der Rangliste auf.",
+  "pk.title": "Glücksturm Poker Defense",
+  "pk.desc": "Teile 12 Karten in Pokerhände auf – jede Hand wird zum Helden, der den Weg bewacht! Bau mit Relikten deinen eigenen Build und halte 150 Monsterarten auf.",
+  "gg.title": "Gladiatorengilde Manager",
+  "gg.desc": "Werde Manager einer Gladiatorengilde: Rekrutiere Kämpfer und plane deine Taktik! Steig in 5v5-Auto-Teamkämpfen von der Staubliga bis zur Champion-Liga auf."
 };

@@ -56,5 +56,21 @@
   "news.item1": "De officiële YongGames-website is online!",
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> is nu verkrijgbaar op Steam.",
   "contact.heading": "Laten we samen iets leuks maken!",
-  "contact.desc": "Samenwerkingen, publishing, bugmeldingen of gewoon even hallo zeggen: alles is welkom."
+  "contact.desc": "Samenwerkingen, publishing, bugmeldingen of gewoon even hallo zeggen: alles is welkom.",
+  "games.more": "Meer games",
+  "games.steamLink": "Bekijk op Steam →",
+  "games.playLink": "Bekijk op Google Play →",
+  "tag.puzzle": "Puzzel",
+  "tag.fighting": "Vechten",
+  "tag.towerDefense": "Tower Defense",
+  "tag.card": "Kaarten",
+  "tag.rpg": "RPG",
+  "tag.management": "Management",
+  "tag.autoBattle": "Auto-gevecht",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/14396c6c4538b40f44a50bdeab0d3be6c975d29b/header.jpg",
+  "pd.desc": "Tik edelstenen in de juiste volgorde aan om skills af te vuren in deze 1v1-puzzelvechtgame! Stel je skilldeck samen, kies een schattige dierenvechter en klim op de ranglijst in potjes van 45 seconden.",
+  "pk.title": "Lucky Tower Poker Defense",
+  "pk.desc": "Verdeel 12 kaarten in pokerhanden en elke hand wordt een held die de weg bewaakt! Maak je eigen build met relikwieën en houd 150 soorten monsters tegen.",
+  "gg.title": "Gladiatorengilde Manager",
+  "gg.desc": "Word de manager van een gladiatorengilde: rekruteer vechters en bedenk je tactiek! Klim in automatische 5v5-teamgevechten van de Stofliga helemaal naar de Kampioensliga."
 };

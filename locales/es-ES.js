@@ -56,5 +56,21 @@
   "news.item1": "¡Ya está abierta la web oficial de YongGames!",
   "news.item2": "¡<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> ya está disponible en Steam!",
   "contact.heading": "¡Hagamos algo divertido juntos!",
-  "contact.desc": "Colaboraciones, publicación, reportes de bugs o simplemente saludar: ¡todo es bienvenido!"
+  "contact.desc": "Colaboraciones, publicación, reportes de bugs o simplemente saludar: ¡todo es bienvenido!",
+  "games.more": "Más juegos",
+  "games.steamLink": "Ver en Steam →",
+  "games.playLink": "Ver en Google Play →",
+  "tag.puzzle": "Puzle",
+  "tag.fighting": "Lucha",
+  "tag.towerDefense": "Defensa de torres",
+  "tag.card": "Cartas",
+  "tag.rpg": "RPG",
+  "tag.management": "Gestión",
+  "tag.autoBattle": "Combate automático",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/14396c6c4538b40f44a50bdeab0d3be6c975d29b/header.jpg",
+  "pd.desc": "¡Pulsa las gemas en orden para lanzar habilidades en este juego de lucha y puzles 1v1! Crea tu mazo de habilidades, elige un adorable luchador animal y escala en la clasificación con combates de 45 segundos.",
+  "pk.title": "Póker de la Suerte: Defensa de Torres",
+  "pk.desc": "¡Divide 12 cartas en manos de póker y cada mano se convierte en un héroe que defiende el camino! Crea tu propia build con reliquias y resiste a 150 tipos de monstruos.",
+  "gg.title": "Gestor del Gremio de Gladiadores",
+  "gg.desc": "¡Conviértete en el mánager de un gremio de gladiadores: ficha luchadores y planea tus tácticas! Asciende de la Liga del Polvo hasta la de Campeones en combates automáticos por equipos 5v5."
 };

@@ -56,5 +56,21 @@
   "news.item1": "Bukas na ang official website ng YongGames!",
   "news.item2": "Available na sa Steam ang <a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a>.",
   "contact.heading": "Gawa tayo ng masayang bagay nang magkasama!",
-  "contact.desc": "Partnership, publishing, bug report, o simpleng hi lang — welcome lahat."
+  "contact.desc": "Partnership, publishing, bug report, o simpleng hi lang — welcome lahat.",
+  "games.more": "Iba Pang Laro",
+  "games.steamLink": "Tingnan sa Steam →",
+  "games.playLink": "Tingnan sa Google Play →",
+  "tag.puzzle": "Puzzle",
+  "tag.fighting": "Fighting",
+  "tag.towerDefense": "Tower Defense",
+  "tag.card": "Cards",
+  "tag.rpg": "RPG",
+  "tag.management": "Management",
+  "tag.autoBattle": "Auto Battle",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/14396c6c4538b40f44a50bdeab0d3be6c975d29b/header.jpg",
+  "pd.desc": "Pindutin ang gems nang sunod-sunod para magpakawala ng skills sa 1v1 puzzle fighter na ito! Buuin ang skill deck mo, pumili ng cute na animal fighter, at umakyat sa ranking sa 45-second na laban.",
+  "pk.title": "Lucky Tower Poker Defense",
+  "pk.desc": "Hatiin ang 12 cards sa poker hands at bawat hand ay magiging hero na magbabantay sa daan! Gumawa ng sariling build gamit ang relics at pigilan ang 150 klase ng monsters.",
+  "gg.title": "Gladiator Guild Manager",
+  "gg.desc": "Maging manager ng isang gladiator guild: mag-recruit ng fighters at magplano ng taktika! Umakyat mula Dust League hanggang Champion League sa 5v5 auto team battles."
 };

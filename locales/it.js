@@ -56,5 +56,21 @@
   "news.item1": "Il sito ufficiale di YongGames è online!",
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> è ora disponibile su Steam.",
   "contact.heading": "Creiamo insieme qualcosa di divertente!",
-  "contact.desc": "Collaborazioni, publishing, segnalazioni di bug o anche solo un saluto: tutto è benvenuto."
+  "contact.desc": "Collaborazioni, publishing, segnalazioni di bug o anche solo un saluto: tutto è benvenuto.",
+  "games.more": "Altri giochi",
+  "games.steamLink": "Vedi su Steam →",
+  "games.playLink": "Vedi su Google Play →",
+  "tag.puzzle": "Puzzle",
+  "tag.fighting": "Picchiaduro",
+  "tag.towerDefense": "Tower Defense",
+  "tag.card": "Carte",
+  "tag.rpg": "GDR",
+  "tag.management": "Gestionale",
+  "tag.autoBattle": "Battaglia automatica",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/14396c6c4538b40f44a50bdeab0d3be6c975d29b/header.jpg",
+  "pd.desc": "Tocca le gemme in ordine per scatenare le abilità in questo picchiaduro puzzle 1v1! Crea il tuo mazzo di abilità, scegli un adorabile lottatore animale e scala la classifica in sfide da 45 secondi.",
+  "pk.title": "Torre Fortunata: Poker Defense",
+  "pk.desc": "Dividi 12 carte in combinazioni di poker: ognuna diventa un eroe a guardia della strada! Crea la tua build con le reliquie e respingi 150 tipi di mostri.",
+  "gg.title": "Gilda dei Gladiatori Manager",
+  "gg.desc": "Diventa il manager di una gilda di gladiatori: recluta combattenti e pianifica le tattiche! Scala dalla Lega della Polvere fino alla Lega dei Campioni in battaglie a squadre automatiche 5v5."
 };

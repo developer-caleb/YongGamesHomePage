@@ -56,5 +56,21 @@
   "news.item1": "YongGames 官方網站正式開站囉！",
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> 已在 Steam 正式上市。",
   "contact.heading": "一起來做好玩的東西吧！",
-  "contact.desc": "合作提案、發行、Bug 回報，或只是來打聲招呼，都非常歡迎！"
+  "contact.desc": "合作提案、發行、Bug 回報，或只是來打聲招呼，都非常歡迎！",
+  "games.more": "更多遊戲",
+  "games.steamLink": "在 Steam 查看 →",
+  "games.playLink": "在 Google Play 查看 →",
+  "tag.puzzle": "益智",
+  "tag.fighting": "格鬥",
+  "tag.towerDefense": "塔防",
+  "tag.card": "卡牌",
+  "tag.rpg": "RPG",
+  "tag.management": "經營",
+  "tag.autoBattle": "自動戰鬥",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/14396c6c4538b40f44a50bdeab0d3be6c975d29b/header.jpg",
+  "pd.desc": "依序點擊寶石施放技能的 1v1 益智格鬥！組好技能牌組、挑選可愛的動物鬥士，在 45 秒對戰中衝上排行榜吧！",
+  "pk.title": "好運塔防：撲克守衛戰",
+  "pk.desc": "把 12 張牌依撲克牌型分組出牌，全部都會變成英雄守住要道！用遺物打造專屬流派，擋下 150 種怪物的進攻。",
+  "gg.title": "培育劍鬥士公會",
+  "gg.desc": "成為劍鬥士公會的教練，招募戰士、擬定戰術！在 5v5 自動團隊戰鬥中，從塵土聯盟一路打進冠軍聯盟。"
 };

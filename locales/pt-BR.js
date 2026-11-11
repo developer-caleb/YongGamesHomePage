@@ -56,5 +56,21 @@
   "news.item1": "O site oficial da YongGames está no ar!",
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> já está disponível na Steam!",
   "contact.heading": "Bora criar algo divertido juntos!",
-  "contact.desc": "Parcerias, publicação, reportar bugs ou só dar um oi — tudo é bem-vindo!"
+  "contact.desc": "Parcerias, publicação, reportar bugs ou só dar um oi — tudo é bem-vindo!",
+  "games.more": "Mais jogos",
+  "games.steamLink": "Ver na Steam →",
+  "games.playLink": "Ver no Google Play →",
+  "tag.puzzle": "Quebra-cabeça",
+  "tag.fighting": "Luta",
+  "tag.towerDefense": "Defesa de torres",
+  "tag.card": "Cartas",
+  "tag.rpg": "RPG",
+  "tag.management": "Gerenciamento",
+  "tag.autoBattle": "Batalha automática",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/14396c6c4538b40f44a50bdeab0d3be6c975d29b/header.jpg",
+  "pd.desc": "Toque nas gemas em ordem para soltar habilidades neste jogo de luta e quebra-cabeça 1v1! Monte seu deck de habilidades, escolha um lutador animal fofinho e suba no ranking em partidas de 45 segundos.",
+  "pk.title": "Pôquer da Sorte: Defesa de Torres",
+  "pk.desc": "Divida 12 cartas em mãos de pôquer e cada mão vira um herói que protege o caminho! Monte sua própria build com relíquias e segure 150 tipos de monstros.",
+  "gg.title": "Gerente da Guilda de Gladiadores",
+  "gg.desc": "Vire o gerente de uma guilda de gladiadores: recrute lutadores e planeje suas táticas! Suba da Liga da Poeira até a Liga dos Campeões em batalhas automáticas em equipe 5v5."
 };

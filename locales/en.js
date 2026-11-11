@@ -56,5 +56,21 @@
   "news.item1": "The official YongGames website is now open!",
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> is now available on Steam.",
   "contact.heading": "Let's make something fun together!",
-  "contact.desc": "Partnerships, publishing, bug reports, or just saying hi — all welcome."
+  "contact.desc": "Partnerships, publishing, bug reports, or just saying hi — all welcome.",
+  "games.more": "More Games",
+  "games.steamLink": "View on Steam →",
+  "games.playLink": "View on Google Play →",
+  "tag.puzzle": "Puzzle",
+  "tag.fighting": "Fighting",
+  "tag.towerDefense": "Tower Defense",
+  "tag.card": "Cards",
+  "tag.rpg": "RPG",
+  "tag.management": "Management",
+  "tag.autoBattle": "Auto Battle",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/14396c6c4538b40f44a50bdeab0d3be6c975d29b/header.jpg",
+  "pd.desc": "Tap gems in order to unleash skills in this 1v1 puzzle fighter! Build your skill deck, pick a cute animal fighter and climb the ranks in 45-second matches.",
+  "pk.title": "Lucky Tower Poker Defense",
+  "pk.desc": "Split 12 cards into poker hands and every hand becomes a hero guarding the road! Craft your own build with relics and hold off 150 kinds of monsters.",
+  "gg.title": "Gladiator Guild Manager",
+  "gg.desc": "Become the manager of a gladiator guild: recruit fighters and plan your tactics! Climb from the Dust League all the way to Champion in 5v5 auto team battles."
 };

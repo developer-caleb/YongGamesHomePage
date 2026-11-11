@@ -56,5 +56,21 @@
   "news.item1": "Официальный сайт YongGames открыт!",
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> уже в Steam!",
   "contact.heading": "Давай сделаем что-то весёлое вместе!",
-  "contact.desc": "Партнёрство, издание, баг-репорты или просто «привет» — всему рады."
+  "contact.desc": "Партнёрство, издание, баг-репорты или просто «привет» — всему рады.",
+  "games.more": "Ещё игры",
+  "games.steamLink": "Смотреть в Steam →",
+  "games.playLink": "Смотреть в Google Play →",
+  "tag.puzzle": "Головоломка",
+  "tag.fighting": "Файтинг",
+  "tag.towerDefense": "Tower Defense",
+  "tag.card": "Карточная",
+  "tag.rpg": "RPG",
+  "tag.management": "Менеджмент",
+  "tag.autoBattle": "Автобой",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/14396c6c4538b40f44a50bdeab0d3be6c975d29b/header.jpg",
+  "pd.desc": "Нажимай на самоцветы по порядку и выпускай навыки в этом файтинге-головоломке 1v1! Собери колоду навыков, выбери милого зверька-бойца и поднимайся в рейтинге в 45-секундных матчах.",
+  "pk.title": "Башня удачи: Покер Defense",
+  "pk.desc": "Раздели 12 карт на покерные комбинации — и каждая станет героем, охраняющим дорогу! Собери свой билд с реликвиями и сдержи 150 видов монстров.",
+  "gg.title": "Гильдия гладиаторов: Менеджер",
+  "gg.desc": "Стань менеджером гильдии гладиаторов: нанимай бойцов и продумывай тактику! Поднимайся от Пыльной лиги до Лиги чемпионов в автобоях 5v5."
 };

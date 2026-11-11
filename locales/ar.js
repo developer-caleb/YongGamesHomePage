@@ -56,5 +56,21 @@
   "news.item1": "افتُتح الموقع الرسمي لـ YongGames!",
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> متوفرة الآن على Steam.",
   "contact.heading": "لنصنع شيئًا ممتعًا معًا!",
-  "contact.desc": "الشراكات، النشر، الإبلاغ عن الأخطاء، أو مجرد تحية — كلها مرحّب بها."
+  "contact.desc": "الشراكات، النشر، الإبلاغ عن الأخطاء، أو مجرد تحية — كلها مرحّب بها.",
+  "games.more": "المزيد من الألعاب",
+  "games.steamLink": "شاهدها على Steam ←",
+  "games.playLink": "شاهدها على Google Play ←",
+  "tag.puzzle": "ألغاز",
+  "tag.fighting": "قتال",
+  "tag.towerDefense": "دفاع الأبراج",
+  "tag.card": "بطاقات",
+  "tag.rpg": "RPG",
+  "tag.management": "إدارة",
+  "tag.autoBattle": "قتال تلقائي",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/14396c6c4538b40f44a50bdeab0d3be6c975d29b/header.jpg",
+  "pd.desc": "اضغط على الجواهر بالترتيب لإطلاق المهارات في لعبة قتال وألغاز 1v1! كوّن مجموعة مهاراتك، واختر مقاتلًا حيوانيًا لطيفًا، واصعد في التصنيف بمباريات مدتها 45 ثانية.",
+  "pk.title": "دفاع برج البوكر المحظوظ",
+  "pk.desc": "قسّم 12 بطاقة إلى أيادي بوكر، وكل يد تتحول إلى بطل يحرس الطريق! اصنع بنيتك الخاصة بالآثار، وتصدَّ لـ150 نوعًا من الوحوش.",
+  "gg.title": "مدير نقابة المجالدين",
+  "gg.desc": "كن مدير نقابة مجالدين: جنّد المقاتلين وخطّط لتكتيكاتك! اصعد من دوري الغبار حتى دوري الأبطال في معارك جماعية تلقائية 5v5."
 };

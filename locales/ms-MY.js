@@ -56,5 +56,21 @@
   "news.item1": "Laman web rasmi YongGames kini dibuka!",
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> kini tersedia di Steam.",
   "contact.heading": "Jom cipta sesuatu yang seronok bersama!",
-  "contact.desc": "Kerjasama, penerbitan, laporan bug, atau sekadar nak say hi — semua dialu-alukan."
+  "contact.desc": "Kerjasama, penerbitan, laporan bug, atau sekadar nak say hi — semua dialu-alukan.",
+  "games.more": "Lagi Game",
+  "games.steamLink": "Lihat di Steam →",
+  "games.playLink": "Lihat di Google Play →",
+  "tag.puzzle": "Teka-teki",
+  "tag.fighting": "Pertarungan",
+  "tag.towerDefense": "Tower Defense",
+  "tag.card": "Kad",
+  "tag.rpg": "RPG",
+  "tag.management": "Pengurusan",
+  "tag.autoBattle": "Auto Battle",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/14396c6c4538b40f44a50bdeab0d3be6c975d29b/header.jpg",
+  "pd.desc": "Tekan permata ikut urutan untuk lepaskan skill dalam game puzzle lawan 1v1 ini! Susun dek skill, pilih pejuang haiwan yang comel dan naikkan ranking dalam perlawanan 45 saat.",
+  "pk.title": "Lucky Tower Poker Defense",
+  "pk.desc": "Bahagikan 12 kad kepada set poker dan setiap set jadi wira yang jaga laluan! Bina build sendiri dengan relik dan halang 150 jenis raksasa.",
+  "gg.title": "Gladiator Guild Manager",
+  "gg.desc": "Jadi pengurus guild gladiator: rekrut pahlawan dan rancang taktik! Daki dari Liga Debu hingga Liga Juara dalam pertempuran pasukan automatik 5v5."
 };

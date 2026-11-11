@@ -56,5 +56,21 @@
   "news.item1": "Website chính thức của YongGames đã mở cửa!",
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> đã có mặt trên Steam.",
   "contact.heading": "Cùng nhau làm điều gì đó thật vui nhé!",
-  "contact.desc": "Hợp tác, phát hành, báo lỗi, hay chỉ ghé chào thôi — đều rất hoan nghênh."
+  "contact.desc": "Hợp tác, phát hành, báo lỗi, hay chỉ ghé chào thôi — đều rất hoan nghênh.",
+  "games.more": "Thêm game",
+  "games.steamLink": "Xem trên Steam →",
+  "games.playLink": "Xem trên Google Play →",
+  "tag.puzzle": "Giải đố",
+  "tag.fighting": "Đối kháng",
+  "tag.towerDefense": "Thủ thành",
+  "tag.card": "Thẻ bài",
+  "tag.rpg": "RPG",
+  "tag.management": "Quản lý",
+  "tag.autoBattle": "Đánh tự động",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/14396c6c4538b40f44a50bdeab0d3be6c975d29b/header.jpg",
+  "pd.desc": "Chạm các viên ngọc theo thứ tự để tung kỹ năng trong game giải đố đối kháng 1v1! Xây bộ kỹ năng, chọn một chiến binh động vật đáng yêu và leo hạng qua những trận đấu 45 giây.",
+  "pk.title": "Thủ Thành Poker May Mắn",
+  "pk.desc": "Chia 12 lá bài thành các bộ poker, mỗi bộ sẽ hóa thành anh hùng canh giữ con đường! Tạo lối build riêng với cổ vật và chặn đứng 150 loại quái vật.",
+  "gg.title": "Quản Lý Hội Đấu Sĩ",
+  "gg.desc": "Trở thành quản lý của hội đấu sĩ: chiêu mộ chiến binh và lên chiến thuật! Leo từ Giải Bụi Đất đến Giải Vô Địch qua các trận đấu đội tự động 5v5."
 };

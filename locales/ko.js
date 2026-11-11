@@ -56,5 +56,21 @@
   "news.item1": "용게임즈 공식 홈페이지가 오픈했어요!",
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a>가 Steam에 출시됐어요.",
   "contact.heading": "같이 재밌는 걸 만들어요!",
-  "contact.desc": "제휴, 퍼블리싱, 버그 제보, 그냥 인사도 환영해요."
+  "contact.desc": "제휴, 퍼블리싱, 버그 제보, 그냥 인사도 환영해요.",
+  "games.more": "더 많은 게임",
+  "games.steamLink": "Steam에서 보기 →",
+  "games.playLink": "Google Play에서 보기 →",
+  "tag.puzzle": "퍼즐",
+  "tag.fighting": "격투",
+  "tag.towerDefense": "타워 디펜스",
+  "tag.card": "카드",
+  "tag.rpg": "RPG",
+  "tag.management": "경영",
+  "tag.autoBattle": "자동 전투",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/7704ed2345f88d732a2972dc09cbdd769b1ca6f9/header_koreana.jpg",
+  "pd.desc": "보석을 순서대로 눌러 기술을 쏘는 1:1 퍼즐 격투! 기술 덱을 짜고 귀여운 동물 파이터를 골라 45초 대전으로 랭킹을 올리세요.",
+  "pk.title": "운빨 탑 포커 디펜스",
+  "pk.desc": "카드 12장을 포커 족보로 나눠 내면 전부 영웅이 되어 길목을 지켜요! 유물로 나만의 빌드를 만들고 150종의 몬스터를 막아내세요.",
+  "gg.title": "검투사 길드 키우기",
+  "gg.desc": "검투사 길드의 감독이 되어 전사를 영입하고 작전을 짜세요! 5대5 자동 팀 전투로 흙먼지 리그부터 챔피언 리그까지 올라가요."
 };

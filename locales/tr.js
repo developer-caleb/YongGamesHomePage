@@ -56,5 +56,21 @@
   "news.item1": "YongGames resmi web sitesi yayında!",
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> artık Steam'de!",
   "contact.heading": "Birlikte eğlenceli bir şeyler yapalım!",
-  "contact.desc": "İş birlikleri, yayıncılık, hata bildirimleri ya da sadece bir merhaba — hepsine kapımız açık."
+  "contact.desc": "İş birlikleri, yayıncılık, hata bildirimleri ya da sadece bir merhaba — hepsine kapımız açık.",
+  "games.more": "Daha Fazla Oyun",
+  "games.steamLink": "Steam'de gör →",
+  "games.playLink": "Google Play'de gör →",
+  "tag.puzzle": "Bulmaca",
+  "tag.fighting": "Dövüş",
+  "tag.towerDefense": "Kule Savunma",
+  "tag.card": "Kart",
+  "tag.rpg": "RPG",
+  "tag.management": "Yönetim",
+  "tag.autoBattle": "Otomatik Savaş",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/14396c6c4538b40f44a50bdeab0d3be6c975d29b/header.jpg",
+  "pd.desc": "Mücevherlere sırayla dokun, yeteneklerini patlat! Bu 1v1 bulmaca dövüş oyununda yetenek desteni kur, sevimli bir hayvan dövüşçü seç ve 45 saniyelik maçlarla sıralamada yüksel.",
+  "pk.title": "Şanslı Kule Poker Savunması",
+  "pk.desc": "12 kartı poker ellerine ayır, her el yolu koruyan bir kahramana dönüşsün! Kalıntılarla kendi build'ini oluştur ve 150 çeşit canavarı durdur.",
+  "gg.title": "Gladyatör Loncası Yöneticisi",
+  "gg.desc": "Bir gladyatör loncasının menajeri ol: savaşçılar topla ve taktiğini planla! 5v5 otomatik takım savaşlarında Toz Ligi'nden Şampiyonlar Ligi'ne kadar tırman."
 };

@@ -56,5 +56,21 @@
   "news.item1": "YongGames 官方网站正式上线啦！",
   "news.item2": "<a href=\"https://store.steampowered.com/app/3562030/Typing_Clash/\" target=\"_blank\" rel=\"noopener\">Typing Clash</a> 已在 Steam 正式发售。",
   "contact.heading": "一起来做好玩的东西吧！",
-  "contact.desc": "商务合作、发行、Bug 反馈，或者只是来打个招呼，都非常欢迎！"
+  "contact.desc": "商务合作、发行、Bug 反馈，或者只是来打个招呼，都非常欢迎！",
+  "games.more": "更多游戏",
+  "games.steamLink": "在 Steam 查看 →",
+  "games.playLink": "在 Google Play 查看 →",
+  "tag.puzzle": "益智",
+  "tag.fighting": "格斗",
+  "tag.towerDefense": "塔防",
+  "tag.card": "卡牌",
+  "tag.rpg": "RPG",
+  "tag.management": "经营",
+  "tag.autoBattle": "自动战斗",
+  "pd.img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5513230/14396c6c4538b40f44a50bdeab0d3be6c975d29b/header.jpg",
+  "pd.desc": "按顺序点击宝石释放技能的 1v1 益智格斗！组建技能卡组，挑选可爱的动物斗士，在 45 秒对战中冲上排行榜。",
+  "pk.title": "运气塔防：扑克守卫战",
+  "pk.desc": "把 12 张牌按扑克牌型分组打出，全部变成英雄守住要道！用遗物打造专属流派，抵挡 150 种怪物的进攻。",
+  "gg.title": "养成角斗士公会",
+  "gg.desc": "成为角斗士公会的教练，招募战士、制定战术！在 5v5 自动团队战斗中，从尘土联赛一路打进冠军联赛。"
 };
